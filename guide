@@ -1,0 +1,43 @@
+ Learning Path
+Aim: 
+have the confidence to deploy an entire AWS environment end to end (greenfield)
+Become proficient in python so that I could get a job as a developer
+
+
+How to get there:
+
+Set up a github documentation repo
+Github wiki (pretty sure you store this as code in the repo)
+https://docs.github.com/en/communities/documenting-your-project-with-wikis/about-wikis
+Document EVERYTHING
+Move everything from this learning google doc into the github documentation repo
+Add rhys to the contributors (RhysDeimel)
+
+
+https://automatetheboringstuff.com/
+Chapter 12 onwards
+Make sure you’re using virtual environments
+Use python3.10
+Put this stuff in a repo so Rhys can review
+
+
+Create a cooking website (blog format)
+Use https://getpelican.com/
+3 recipes that you cook at home
+Need to be able to build on local machine
+Run on localhost (view it on your local web browser)
+Github repo (PR Rhys on all the below)
+Init blank repo
+Init basic pelican template
+3 posts
+Can update from default CSS if desired
+Once running on local, set up github actions
+Build site and package zip
+Create a repo release with zip + change notes
+
+
+
+AWS best practices (minimal) landing zone
+Write up a one-pager on what you think this would look like
+Add a diagram or two
+
